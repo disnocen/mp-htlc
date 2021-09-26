@@ -1,0 +1,6 @@
+[submodule "MP-SPDZ"]
+	path = MP-SPDZ
+	url = https://github.com/data61/MP-SPDZ
+[submodule "multi-party-ecdsa"]
+	path = multi-party-ecdsa
+	url = https://github.com/ZenGo-X/multi-party-ecdsa
